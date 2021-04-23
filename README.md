@@ -6,7 +6,8 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![LED ON](https://user-images.githubusercontent.com/67512847/115904096-04503080-a482-11eb-9e4b-0c184c848d75.png)|![OFF](simulation/OFF.png)|
+|![LED ON](https://user-images.githubusercontent.com/67512847/115904096-04503080-a482-11eb-9e4b-0c184c848d75.png)|![LED OFF](https://user-images.githubusercontent.com/67512847/115904494-77f23d80-a482-11eb-8e66-7f0c3e6b7c17.png)
+|
 
 
 #### CI and Code Quality
