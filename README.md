@@ -1,10 +1,23 @@
 # Embedded C Programming Examples with Continuous Integration and Code Quality
 
-# LED Blinking 
+
+
+#### CI and Code Quality
+
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+|[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0c116bd6deea47659a3578547d7862f7)](https://www.codacy.com/gh/Pavani123429/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pavani123429/Emb-C&amp;utm_campaign=Badge_Grade)|
+
+
+
+
+
 
 ## In Action
 
-|ON|OFF|
+## Activity 1
+
+|OFF|ON|
 |:--:|:--:|
 |![Act1-a](https://user-images.githubusercontent.com/67512847/116709262-226fe080-a9ee-11eb-8e51-c4d5a76b214d.png)|![Act1-b](https://user-images.githubusercontent.com/67512847/116709299-2bf94880-a9ee-11eb-81db-7d23a623117c.png)|
 
@@ -24,11 +37,3 @@
 
 
 
-#### CI and Code Quality
-
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/Bharathgopal/Emb-C/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0c116bd6deea47659a3578547d7862f7)](https://www.codacy.com/gh/Pavani123429/Emb-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Pavani123429/Emb-C&amp;utm_campaign=Badge_Grade)|
-
-## Wiki Documentation
-* System [SETUP](https://github.com/Bharathgopal/Emb-C/wiki)
